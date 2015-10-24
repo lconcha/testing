@@ -5,3 +5,4 @@ date
 uname -a
 echo ""
 echo "bye `whoami`"
+echo ""
